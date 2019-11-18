@@ -1,6 +1,6 @@
 const quotes = [
     {
-    "quote": "Never pretend to a love which you do not actually feel, for love is not ours to command.",
+    "punchline": "Never pretend to a love which you do not actually feel, for love is not ours to command.",
     "author": "Alan Watts"
     }, {
     "quote": "You can observe a lot just by watching.",
